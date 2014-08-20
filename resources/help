@@ -1,0 +1,37 @@
+Release country:
+  Ordinary one character per country.
+
+  Identifiers:
+    1 = Japan & Korea       E = Europe
+    4 = USA & Brazil        F = France
+    8 = Hong Kong           J = Japan
+    A = Australia           K = Korea
+    B = Brazil              U = USA
+    C = China
+
+Product code:
+  TYPE CODE-VERSION
+
+  Type:
+    GM = Game
+    Al = Education
+
+IO support:
+  Each character represent one device.
+
+  Identifiers:
+    0 = Joystick for MS     K = Keyboard
+    4 = Team Play           L = Activator
+    6 = 6-button Joypad     M = Mega Mouse
+    B = Control Ball        P = Printer
+    C = CD-ROM              R = Serial RS232C
+    F = Floppy Disk Drive   T = Tablet
+    J = Joypad              V = Paddle Controller
+
+Modem support:
+  If the ROM as support for modem: MOxxxxyy.z
+
+  xxxx  = Firm name
+  yy    = Modem number
+  z     = Version
+

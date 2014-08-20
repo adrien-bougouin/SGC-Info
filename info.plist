@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>fr_FR</string>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleTypeExtensions</key>
+        <array>
+          <string>bin</string>
+        </array>
+        <key>CFBundleTypeIconFile</key>
+        <string>sgc_file</string>
+        <key>CFBundleTypeName</key>
+        <string>Sega Genesis Cartridge</string>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>LSIsAppleDefaultForType</key>
+        <true/>
+      </dict>
+      <dict>
+        <key>CFBundleTypeExtensions</key>
+        <array>
+          <string>gen</string>
+        </array>
+        <key>CFBundleTypeIconFile</key>
+        <string>sgc_file</string>
+        <key>CFBundleTypeName</key>
+        <string>Sega Genesis Cartridge</string>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>LSIsAppleDefaultForType</key>
+        <true/>
+      </dict>
+    </array>
+    <key>CFBundleExecutable</key>
+    <string>exec_NAME</string>
+    <key>CFBundleIconFile</key>
+    <string>exec_NAME</string>
+    <key>CFBundleIdentifier</key>
+    <string>fr.adrien.bougouin.dist_NAME</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>dist_NAME</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleVersion</key>
+    <string>project_VERSION</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+  </dict>
+</plist>
